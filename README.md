@@ -1,6 +1,6 @@
 # Algorithmic trading-HighLowPoint
 Algorithmic trading
-本项目为 知乎专栏：。。。 配套程序  
+本项目为 知乎专栏：https://zhuanlan.zhihu.com/p/56813297 配套程序  
 环境：  
   研究：jupyter notebook  
   回测框架：VNPY  
