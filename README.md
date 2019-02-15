@@ -1,2 +1,2 @@
-# Program-trading-HighLowPoint
-Program-trading
+# Algorithmic trading-HighLowPoint
+Algorithmic trading
